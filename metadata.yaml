@@ -1,5 +1,8 @@
 _repo: The-Assassination-Bureau-Ltd_75562
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75562-h/images/cover.jpg
 creator:
   authors:
   - agent_name: London, Jack
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '58049'
     url: http://www.gutenberg.org/2009/agents/58049
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75562#The-Assassination-Bureau-Ltd
 gutenberg_issued: '2025-03-08'
 gutenberg_type: Text
 identifiers:
